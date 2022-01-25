@@ -7,10 +7,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align ="center"> Dog Lover ♥
   
-  _____________
+<!--   _____________ -->
  
   
-  - 🌱 I’m currently learning **React.js** <br>
+- 🌱 I’m currently learning **React.js** <br>
 - 👯 I’m looking to collaborate on **Open Source Projects** <br>
 - 🤝 I’m looking for help with **Front-End Development** <br>
 - 💬 Ask me about Innovation Ideas <br>
