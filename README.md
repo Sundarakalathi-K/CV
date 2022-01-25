@@ -29,7 +29,7 @@
 </p>
   <br>
 
-## Skills
+##Skills
 
   <h3 align="left">Front-End </h3>
 <p align='left'>
@@ -55,21 +55,21 @@
 ---
 
 
-### **FRONTEND DEVELOPER**
+###**FRONTEND DEVELOPER**
 
 Worked with team to build website using HTML, CSS and Js. Developed Calendar Event website for Intra-college events.
 
 ________________
-
-## Education 👨‍💻
+<br>
+##Education 👨‍💻
 
 ### **Sri Sairam Institute Of technology**
 ### B.E Computer Science (2019- 2023)
 GPA 8.75
 
 ---
-
-### INTERESTS
+<br>
+###INTERESTS
 Apart from being a web developer, I do develop Mobile App creation. 
 
 I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. 
