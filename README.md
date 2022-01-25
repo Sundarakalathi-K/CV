@@ -6,17 +6,18 @@
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align ="center"> Dog Lover ♥
+	<br>
   
 <!--   _____________ -->
  
-  
-- 🌱 I’m currently learning **React.js** <br>
-- 👯 I’m looking to collaborate on **Open Source Projects** <br>
-- 🤝 I’m looking for help with **Front-End Development** <br>
-- 💬 Ask me about Innovation Ideas <br>
-- 📫 How to reach me sundarakalathi1311@gmail.com <br><br>
+  <p align="center">
+	-🌱 I’m currently learning <b>React.js</b> <br>
+	- 👯 I’m looking to collaborate on Open Source Projects <br>
+	- 🤝 I’m looking for help with Front-End Development <br>
+	- 💬 Ask me about Innovation Ideas <br>
+	- 📫 How to reach me sundarakalathi1311@gmail.com <br><br>
   <img  align ="right" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="55">
-  
+	</p>
   ____________________________
   
 <h3 align="left">Connect with me:</h3>
