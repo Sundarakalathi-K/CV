@@ -6,7 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="mailto:sundarakalathi1311@gmail.com">sundarakalathi1311@gmail.com </a>
   <br><br>
   <a href="https://www.linkedin.com/in/sundarakalathi-k-992b011a1/">LinkedIn Profile</a>
-  <br><br><br>
-  <a href="https://github.com/Sundarakalathi-K"><b>View My Gihub Profile</b></a> 
-
+  <br><br>
+  <a href="https://github.com/Sundarakalathi-K"><b>View My Github Profile</b></a> 
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
