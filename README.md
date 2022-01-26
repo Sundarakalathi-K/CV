@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:teal;font-weight:700;font-size:80px">Portfolio</span></h1>
+<h1 align="center"><span style="color:teal;font-weight:700;font-size:60px">Portfolio</span></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sundarakalathi K <img src="https://user-images.githubusercontent.com/61245841/143833321-c4a88d01-4448-47b9-a1b0-2b9f609e1270.png" width="65">
 </h1>
