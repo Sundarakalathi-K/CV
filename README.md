@@ -46,6 +46,10 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 Worked with team to build website using HTML, CSS, and Js. Developed Calendar event management for college bookings.
 
 
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+
+
+
 ---
 
 ## Education
