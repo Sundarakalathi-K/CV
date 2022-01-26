@@ -4,9 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
  Passionate Frontend Developer
   <br><br>
   <a href="mailto:sundarakalathi1311@gmail.com">sundarakalathi1311@gmail.com </a>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/sundarakalathi-k-992b011a1/">LinkedIn Profile</a>
-  <br>
-  <a href="https://github.com/Sundarakalathi-K">Gihub</a> 
+  <br><br><br>
+  <a href="https://github.com/Sundarakalathi-K"><b>View My Gihub Profile</b></a> 
 
 theme: jekyll-theme-minimal
