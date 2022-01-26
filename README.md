@@ -35,4 +35,4 @@ GPA 8.75
 ### INTERESTS
 Apart from being a web developer, I do MObile App 📱 creation. 
 
-I enjoy being outdoors, so I love travelling to different countries and explore different cultures. 
+I enjoy being outdoors, so I love travelling to different countries and explore different cultures ✈
