@@ -1,1 +1,12 @@
+title: Sundarakalathi K # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Passionate Frontend Developer
+  <br><br>
+  <a href="mailto:sundarakalathi1311@gmail.com">sundarakalathi1311@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/sundarakalathi-k-992b011a1/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/Sundarakalathi-K">Gihub</a> 
+
 theme: jekyll-theme-minimal
